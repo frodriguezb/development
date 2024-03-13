@@ -1,5 +1,5 @@
 package com.indra.micros.dominio;
 
-public class validadorArchivos {
+public class getUuid {
 
 }
